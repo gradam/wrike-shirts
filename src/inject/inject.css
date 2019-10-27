@@ -1,0 +1,12 @@
+/**
+ * Place your custom CSS styles here.
+ **/
+.size-counter-container > span {
+  background: rgb(0, 101, 128);
+  color: white;
+  padding-left: 3px;
+  padding-right: 3px;
+  border-radius: 4px;
+  margin-left: 5px;
+  margin-right: 5px;
+}
